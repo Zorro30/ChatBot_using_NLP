@@ -3,7 +3,7 @@ This is a ChatBot I made for a HACKATHON in my firm. It uses NLP to select a res
 
 run using
 
-> python3 chatbot.py
+-> python3 chatbot.py
 ask what you want to ask the bot.
 
 You can add your own conversations to the dataset so that the bot can reply back accordingly.
